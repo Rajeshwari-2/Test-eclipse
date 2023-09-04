@@ -21,7 +21,7 @@ public class StringNonrepeated {
 				map.put(ch, map.get(ch)+1);
 			}
 			else {
-				map.put(ch, 2);
+				map.put(ch, 3);
 			}
 		}
 		System.out.println(map);
